@@ -1,4 +1,4 @@
-### Hi there me chamo Igor,sou estudante de  programação no IFSC - Campus Lages e no CEDUP Renato Ramos  da Silva
+### Olá me chamo Igor,sou estudante de  programação no IFSC - Campus Lages e no CEDUP Renato Ramos  da Silva
 
 <!--
 **igormota22/igormota22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
